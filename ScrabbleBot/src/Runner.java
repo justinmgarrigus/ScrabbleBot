@@ -59,18 +59,18 @@ public class Runner
 		LETTER_FONT = new Font("Dialog", Font.PLAIN, 26); 
 	
 	public static final String BOARD_FILE_NAME
-//			= "Default Board.txt";
-//			= "Shrek Board.txt";
-			= "Lightning Round Board.txt";
-//			= "Words With Friends Board.txt"; 
+//			= "ScrabbleBot/Default Board.txt";
+//			= "ScrabbleBot/Shrek Board.txt";
+			= "ScrabbleBot/Lightning Round Board.txt";
+//			= "ScrabbleBot/Words With Friends Board.txt"; 
 	
 	public static final String DICTIONARY_FILE_NAME 
-			= "Collins Scrabble Words (2019).txt";
-//			= "Google 20k Words.txt"; 
+			= "ScrabbleBot/Collins Scrabble Words (2019).txt";
+//			= "ScrabbleBot/Google 20k Words.txt"; 
 	
 	public static final String LETTER_POINTS_FILE_NAME
-//			= "Letter Points.txt"; 
-			= "Words With Friends Letter Points.txt"; 
+//			= "ScrabbleBot/Letter Points.txt"; 
+			= "ScrabbleBot/Words With Friends Letter Points.txt"; 
 	
 	public static void main(String[] args) 
 	{

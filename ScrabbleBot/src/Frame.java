@@ -226,8 +226,8 @@ public class Frame extends JFrame implements ActionListener, MouseWheelListener
 	{
 		JPanel decisionArea = new JPanel(new FlowLayout()); 
 		
-		goRightRobot = new JButton(new ImageIcon("right.png"));
-		goLeftRobot = new JButton(new ImageIcon("left.png"));
+		goRightRobot = new JButton(new ImageIcon("ScrabbleBot/right.png"));
+		goLeftRobot = new JButton(new ImageIcon("ScrabbleBot/left.png"));
 		robotButton = new JButton("Start Robot's turn");
 		humanButton = new JButton("Start Human's turn"); 
 		
