@@ -1,0 +1,16 @@
+15 15
+_ _ _ TW _ _ TL _ TL _ _ TW _ _ _ 
+_ _ DL _ _ DW _ _ _ DW _ _ DL _ _ 
+_ DL _ _ DL _ _ _ _ _ DL _ _ DL _ 
+TW _ _ TL _ _ _ DW _ _ _ TL _ _ TW 
+_ _ DL _ _ _ DL _ DL _ _ _ DL _ _ 
+_ DW _ _ _ TL _ _ _ TL _ _ _ DW _ 
+TL _ _ _ DL _ _ _ _ _ DL _ _ _ TL 
+_ _ _ DW _ _ _ + _ _ _ DW _ _ _ 
+TL _ _ _ DL _ _ _ _ _ DL _ _ _ TL 
+_ DW _ _ _ TL _ _ _ TL _ _ _ DW _ 
+_ _ DL _ _ _ DL _ DL _ _ _ DL _ _ 
+TW _ _ TL _ _ _ DW _ _ _ TL _ _ TW 
+_ DL _ _ DL _ _ _ _ _ DL _ _ DL _ 
+_ _ DL _ _ DW _ _ _ DW _ _ DL _ _ 
+_ _ _ TW _ _ TL _ TL _ _ TW _ _ _ 

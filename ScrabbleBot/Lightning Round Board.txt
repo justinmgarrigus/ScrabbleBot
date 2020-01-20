@@ -1,0 +1,12 @@
+11 11
+TL _ TW _ _ _ _ _ TW _ TL
+_ DW _ _ _ DW _ _ _ DW _
+TW _ DL _ DL _ DL _ DL _ TW
+_ _ _ TL _ _ _ TL _ _ _ 
+_ _ DL _ _ _ _ _ DL _ _
+_ DW _ _ _ + _ _ _ DW _ 
+_ _ DL _ _ _ _ _ DL _ _ 
+_ _ _ TL _ _ _ TL _ _ _
+TW _ DL _ DL _ DL _ DL _ TW
+_ DW _ _ _ DW _ _ _ DW _ 
+TL _ TW _ _ _ _ _ TW _ TL
